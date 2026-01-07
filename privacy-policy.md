@@ -1,17 +1,36 @@
 Gizlilik Politikası
 
-Bu uygulama kullanıcıdan herhangi bir kişisel veri toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz.
+Uygulama Adı: Harfika
+Geliştirici: Arda Uslu
 
-Toplanan Veriler:
-- Uygulama kişisel bilgi, konum, kişi listesi, kamera veya mikrofon verisi toplamaz.
-- Uygulama çevrimdışı çalışabilir.
+Bu gizlilik politikası, Harfika uygulamasının kullanıcı gizliliğine verdiği önemi açıklamaktadır.
 
-Reklam ve Analitik:
-- Bu uygulamada reklam veya üçüncü taraf analiz araçları kullanılmamaktadır.
+Toplanan Veriler
 
-Çocukların Gizliliği:
-- Bu uygulama 13 yaş altı çocuklar için uygundur.
-- Bilinçli olarak çocuklardan kişisel veri toplanmaz.
+Harfika uygulaması;
 
-Herhangi bir sorunuz için:
-e-posta: ardauslu0@gmail.com
+Kullanıcılardan herhangi bir kişisel veri toplamaz
+
+Kişisel bilgi, konum verisi, kişi listesi, kamera veya mikrofon erişimi kullanmaz
+
+Kullanıcı verilerini saklamaz veya üçüncü taraflarla paylaşmaz
+
+Uygulama tamamen çevrimdışı olarak çalışabilir.
+
+Reklam ve Analitik
+
+Uygulama içerisinde reklam bulunmamaktadır
+
+Herhangi bir üçüncü taraf analiz aracı (Google Analytics, Firebase vb.) kullanılmamaktadır
+
+Çocukların Gizliliği
+
+Harfika, 13 yaş altı çocuklar için uygundur
+
+Çocuklardan bilinçli olarak hiçbir kişisel veri toplanmaz
+
+İletişim
+
+Gizlilik politikası ile ilgili sorularınız için:
+
+📧 E-posta: ardauslu0@gmail.com
